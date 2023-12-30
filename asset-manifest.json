@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/hoctuvung3/static/css/main.2c70230f.css",
-    "main.js": "/hoctuvung3/static/js/main.ab495228.js",
+    "main.css": "/hoctuvung3/static/css/main.9578b844.css",
+    "main.js": "/hoctuvung3/static/js/main.27483383.js",
     "static/css/217.eb372b8f.chunk.css": "/hoctuvung3/static/css/217.eb372b8f.chunk.css",
-    "static/js/217.db0b7969.chunk.js": "/hoctuvung3/static/js/217.db0b7969.chunk.js",
+    "static/js/217.2e4fb9ef.chunk.js": "/hoctuvung3/static/js/217.2e4fb9ef.chunk.js",
     "static/media/VivaldiFourSeasonsWinter.mp3": "/hoctuvung3/static/media/VivaldiFourSeasonsWinter.18122cc3eb8e2a5017b5.mp3",
     "static/media/input-right-corner.png": "/hoctuvung3/static/media/input-right-corner.32ebc9225615fb094876.png",
     "static/media/input-left-corner.png": "/hoctuvung3/static/media/input-left-corner.5646584e0208962bce80.png",
@@ -45,13 +45,13 @@
     "static/media/sunset.jpg": "/hoctuvung3/static/media/sunset.40d87e380034f233eb9d.jpg",
     "static/media/basiersquare-regular-webfont.woff2": "/hoctuvung3/static/media/basiersquare-regular-webfont.f6bb0273dc0a2d006278.woff2",
     "index.html": "/hoctuvung3/index.html",
-    "main.2c70230f.css.map": "/hoctuvung3/static/css/main.2c70230f.css.map",
-    "main.ab495228.js.map": "/hoctuvung3/static/js/main.ab495228.js.map",
+    "main.9578b844.css.map": "/hoctuvung3/static/css/main.9578b844.css.map",
+    "main.27483383.js.map": "/hoctuvung3/static/js/main.27483383.js.map",
     "217.eb372b8f.chunk.css.map": "/hoctuvung3/static/css/217.eb372b8f.chunk.css.map",
-    "217.db0b7969.chunk.js.map": "/hoctuvung3/static/js/217.db0b7969.chunk.js.map"
+    "217.2e4fb9ef.chunk.js.map": "/hoctuvung3/static/js/217.2e4fb9ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c70230f.css",
-    "static/js/main.ab495228.js"
+    "static/css/main.9578b844.css",
+    "static/js/main.27483383.js"
   ]
 }
