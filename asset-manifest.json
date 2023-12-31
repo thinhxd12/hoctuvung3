@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hoctuvung3/static/css/main.de758a11.css",
-    "main.js": "/hoctuvung3/static/js/main.fa50df88.js",
+    "main.css": "/hoctuvung3/static/css/main.a4d1fd35.css",
+    "main.js": "/hoctuvung3/static/js/main.61f446e5.js",
     "static/css/217.eb372b8f.chunk.css": "/hoctuvung3/static/css/217.eb372b8f.chunk.css",
     "static/js/217.42700195.chunk.js": "/hoctuvung3/static/js/217.42700195.chunk.js",
     "static/media/VivaldiFourSeasonsWinter.mp3": "/hoctuvung3/static/media/VivaldiFourSeasonsWinter.18122cc3eb8e2a5017b5.mp3",
@@ -37,6 +37,7 @@
     "static/media/cheltenham-italic-700.ttf": "/hoctuvung3/static/media/cheltenham-italic-700.9542650d88b1660b1714.ttf",
     "static/media/cheltenham-normal-300.ttf": "/hoctuvung3/static/media/cheltenham-normal-300.48a9ee567e4d2fe30f6d.ttf",
     "static/media/Roslindale-DisplayRegular-Testing.woff2": "/hoctuvung3/static/media/Roslindale-DisplayRegular-Testing.78232e9c24eba74decd2.woff2",
+    "static/media/news.jpg": "/hoctuvung3/static/media/news.6c60ebb9f51e24a0e22d.jpg",
     "static/media/Roslindale-DisplayCondensedLightItalic-Testing.woff2": "/hoctuvung3/static/media/Roslindale-DisplayCondensedLightItalic-Testing.f0a9090634dc08ea0a5d.woff2",
     "static/media/clover.png": "/hoctuvung3/static/media/clover.3b272ebbe3caea7af2c8.png",
     "static/media/sunrise.jpg": "/hoctuvung3/static/media/sunrise.54ff59913f45a565b16e.jpg",
@@ -45,13 +46,13 @@
     "static/media/sunset.jpg": "/hoctuvung3/static/media/sunset.40d87e380034f233eb9d.jpg",
     "static/media/basiersquare-regular-webfont.woff2": "/hoctuvung3/static/media/basiersquare-regular-webfont.f6bb0273dc0a2d006278.woff2",
     "index.html": "/hoctuvung3/index.html",
-    "main.de758a11.css.map": "/hoctuvung3/static/css/main.de758a11.css.map",
-    "main.fa50df88.js.map": "/hoctuvung3/static/js/main.fa50df88.js.map",
+    "main.a4d1fd35.css.map": "/hoctuvung3/static/css/main.a4d1fd35.css.map",
+    "main.61f446e5.js.map": "/hoctuvung3/static/js/main.61f446e5.js.map",
     "217.eb372b8f.chunk.css.map": "/hoctuvung3/static/css/217.eb372b8f.chunk.css.map",
     "217.42700195.chunk.js.map": "/hoctuvung3/static/js/217.42700195.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de758a11.css",
-    "static/js/main.fa50df88.js"
+    "static/css/main.a4d1fd35.css",
+    "static/js/main.61f446e5.js"
   ]
 }
